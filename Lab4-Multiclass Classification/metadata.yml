@@ -1,0 +1,12 @@
+---
+:id: 110227604
+:submitters:
+- :name: Isha Jain
+  :email: me1200937@mech.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-09 17:36:34.930512000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-09 09:36:34.930512000 Z
+:status: processed
+:score: 6.7
